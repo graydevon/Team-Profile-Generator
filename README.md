@@ -7,7 +7,7 @@
 ## Description
 A command line application where the User can display a software engineer team, Which will invole a Manager, Engineers and Interns. All will then be deployed onto a HTML file. 
 
-[Video Demo](https://drive.google.com/file/d/1Ci1x-3jFZMk0Gu6bA-GLNCBD9MFyGHn/view)
+[Video Demo](https://youtu.be/nO7TLYuxatg) 
 
 ## Usage
   [github repository](https://github.com/graydevon/Team-Profile-Generator)
