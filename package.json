@@ -4,5 +4,25 @@
   },
   "devDependencies": {
     "jest": "^29.0.3"
-  }
+  },
+  "name": "team-profile-generator",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graydevon/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graydevon/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/graydevon/Team-Profile-Generator#readme"
 }
