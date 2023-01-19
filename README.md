@@ -5,7 +5,7 @@
 
 
 ## Description
-A command line application where the User can display a software engineer team, Which will invole a Manager, Engineers and Interns. All will then be deployed onto a HTML file. 
+A command line application where the User can display a software engineer team, Which will involve a Manager, Engineers and Interns. All will then be deployed onto a HTML file. 
 
 [Video Demo](https://youtu.be/nO7TLYuxatg) 
 
